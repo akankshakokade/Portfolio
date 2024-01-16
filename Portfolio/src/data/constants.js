@@ -110,7 +110,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://drive.google.com/file/d/1jl-v0oSks78QbX4jk_0GDjbj6wV9Wj8X/view?usp=drive_link",
+          "https://tse2.mm.bing.net/th?id=OIP.q0DQLwqov4XeEv1FvaWwwAHaHa&pid=Api&P=0&h=180",
       },
       {
         name: "GitHub",
@@ -131,7 +131,7 @@ export const skills = [
 export const education = [
   {
     id: 0,
-    img: "https://images.collegedunia.com/public/college_data/images/logos/1477030899SIMCAlogo.jpg?h=80&w=80&mode=stretch",
+    img: "https://www.asma.in/images/logo.jpeg",
     school: "Asma Institute of Management and Computer Application,Shivane",
     date: "  Nov 2023 - May 2025",
     grade:"Not updated",
@@ -175,7 +175,7 @@ export const projects = [
     description:
       " The Online Feedback system is Java Project. The Feedback system is developed to manage Feedback of students for teacher in IT Institutes. These systems will ultimately allow you to better management of institute",
     image:
-      "https://drive.google.com/file/d/1j1nMb4B3RZZx39tM6Wj0CoT2IafXX6L0/view?usp=drive_link",
+      "https://github.com/akankshakokade/OnlineFeedbackSystem/blob/main/OnlineFeedbackSystem/src/main/webapp/images/19.jpg?raw=true",
     tags: ["HTML5 & CSS3",  "Bootstrap","Javascript", "Java"],
     category: "web app",
     github: "https://github.com/Akankshakokade/OnlineFeedbackSystem",
@@ -199,7 +199,7 @@ export const projects = [
     description:
       "A portfolio react based responsive website. This project showcases my skills, projects, and experiences as a web developer.",
     image:
-      "https://github.com/HusenMujawar/Portfolio/blob/main/src/images/portfolioimage.png?raw=true",
+      "https://github.com/akankshakokade/Portfolio/blob/main/Portfolio/src/images/portfolioimage.png?raw=true",
     tags: ["HTML5", "CSS", "Javascript", "ReactJS"],
     category: "web app",
     github: "https://github.com/HusenMujawar/Portfolio.git",
